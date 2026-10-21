@@ -34,7 +34,7 @@ const TEMPLATE_DATA = [
       },
       {
         title: "Rendering Provider Conflict Action",
-        text: "Please call the patient to confirm whether they are looking to switch providers. Referred to Dr. [Referring Provider] but previously saw Dr. [Previous Provider] on [Date]. If so, please schedule. Documents have already been added to the patient's chart."
+        text: "Please call the patient to confirm whether they are looking to switch providers. Referred to Dr. [Receiving Provider] but previously saw Dr. [Previous Provider] on [Date]. If so, please schedule. Documents have already been added to the patient's chart."
       }
     ]
   },
